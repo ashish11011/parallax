@@ -69,5 +69,8 @@
     .image{
         background-attachment: scroll;
     }
+    .img-2,.img-3{
+        height: 600px;
+    }
 }
 
